@@ -1,0 +1,10 @@
+name: advent_of_code_dart_starter
+description: Starter for Advent of Code in Dart 
+version: 1.0.0
+author: Rurik Pinheiro <me@rkpinheiro.dev>
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+
+dev_dependencies:
+  test: ^1.15.7
